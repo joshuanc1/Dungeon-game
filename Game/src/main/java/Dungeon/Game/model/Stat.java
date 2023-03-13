@@ -1,4 +1,4 @@
-package org.example.Hunter;
+package Dungeon.Game.model;
 
 public class Stat {
 

@@ -1,4 +1,4 @@
-package org.example.Hunter;
+package Dungeon.Game.model;
 import javax.validation.constraints.*;
 
 public class Hunter {
